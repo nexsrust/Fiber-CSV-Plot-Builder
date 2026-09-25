@@ -1,0 +1,2 @@
+[main]
+    run -pyf "%@AFiber CSV Plot Builder\fiber_csv_plot_builder.py";
